@@ -30,17 +30,16 @@ const HomeContainer = () => {
 
         <div className="py-2 flex-1 flex flex-col items-start justify-center gap-6 mr-8 ml-3">
           <p className="text-[2.5rem] lg:text-[4.5rem] font-bold tracking-wide text-headingColor">
-            All Incredients smell
+            Where every ingredient tells
             <div className="text-red-600 text-[3rem] lg:text-[5rem]">
-               Like ur Ex
+               A story
             </div>
           </p>
 
           <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima velit
-            eaque fugit distinctio est nam voluptatum architecto, porro iusto
-            deserunt recusandae ipsa minus eos sunt, dolores illo repellat facere
-            suscipit!
+            The first bite will blow your mind. The second will transport you to another dimension.
+            A place where food, design, and ambiance come together to create a memorable experience.
+            A farm-to-table restaurant that uses all-natural ingredients.
           </p>
         </div>
       </div>
