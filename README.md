@@ -1,10 +1,10 @@
 # POS SYSTEM (Software Engineering Assignment)
-**Team name:** Outlaws 
-**Task 1:** Requirement Elictation 
-**Task 2:** Activity, Sequence and Class Diagram 
-**Task 3:** Architecture design 
-**Task 4:** Implementation – Sprint 1 
-**Date:** April 16<sup>rd</sup>, 2022 (task 3)
+**Team name:** Outlaws
+**Task 1:** Requirement Elictation
+**Task 2:** Activity, Sequence and Class Diagram
+**Task 3:** Architecture design
+**Task 4:** Implementation - Sprint 1
+**Date:** April 30<sup>rd</sup>, 2022 (task 4)
 
 ## Members
 - Nguyễn Đình Minh (1952092)
@@ -147,8 +147,37 @@ Link the **MVC** model to our project, for example of the food ordering process:
 ### Task 3.2
 ![](https://i.imgur.com/9oX3Nfv.png)
 
+
 ## Task 4
 
 - Task 4.1: Setting up. The team creates an online repository (github, bitbucket, etc) for version control.
 - Task 4.2: Adding documents, materials and folders for Requirement, System modelling and Architectural design. Use the selected version control system to report the changes to these files/ folders
 - Task 4.3: Implement a Minimum Viable Product (MVP) for the menu screen in Figure 2 and demonstrate the result. MVP means that do the least to be able to demonstrate. That means at this stage, no need for a database to store all menu items, customers, etc. Data can be hard coded in code files.
+#### Some images about our app:
+![](https://i.imgur.com/IEXlMFH.png)
+
+![](https://i.imgur.com/5eCP8tB.png)
+
+![](https://i.imgur.com/PVFJJrN.png)
+
+![](https://i.imgur.com/e4aHi7M.png)
+
+![](https://i.imgur.com/kkRAHDo.png)
+
+![](https://i.imgur.com/4bSLNMa.png)
+
+
+
+
+The commit history below is captured from this [git repo](https://github.com/trieu2201/Outlaws-Restaurant).
+
+![](https://i.imgur.com/LBBC28w.png)
+
+![](https://i.imgur.com/3U39ljM.png)
+
+![](https://i.imgur.com/8LPWS2g.png)
+
+![](https://i.imgur.com/ADAdChJ.png)
+
+The document folder for the system is here [(https://github.com/trieu2201/Outlaws-Restaurant/tree/main/document)
+
