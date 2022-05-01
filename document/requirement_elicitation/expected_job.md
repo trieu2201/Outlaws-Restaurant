@@ -1,0 +1,13 @@
+#### Expected Jobs
+- Add take-away option
+- Develop a web application with an associated QR code
+- Enhance web-based responsiveness on multi-platform
+- Ensure database consistency and well-managed between different branches
+- Synchronize Server and maintain Server throughput
+- Support dine-in (table reservation) and take-away orders#### Expected Jobs
+- Add take-away option
+- Develop a web application with an associated QR code
+- Enhance web-based responsiveness on multi-platform
+- Ensure database consistency and well-managed between different branches
+- Synchronize Server and maintain Server throughput
+- Support dine-in (table reservation) and take-away orders
