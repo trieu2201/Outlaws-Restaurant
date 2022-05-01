@@ -1,0 +1,13 @@
+#### Relevant Stakeholders
+- Bank
+- System Management Staff
+- IT help
+- End User
+- Project Manager
+- Server Hoster
+- Restaurant Owner
+- Restaurant Manager
+- Waiter/Waitress
+- Clerk
+- Kitchen Staff
+- Restuarant Investor
