@@ -1,8 +1,9 @@
 # POS SYSTEM (Software Engineering Assignment)
-**Team name:** Outlaws
-**Task 1:** Requirement Elictation
-**Task 2:** Activity, Sequence and Class Diagram
-**Task 3:** Architecture design
+**Team name:** Outlaws 
+**Task 1:** Requirement Elictation 
+**Task 2:** Activity, Sequence and Class Diagram 
+**Task 3:** Architecture design 
+**Task 4:** Implementation – Sprint 1 
 **Date:** April 16<sup>rd</sup>, 2022 (task 3)
 
 ## Members
@@ -145,3 +146,9 @@ Link the **MVC** model to our project, for example of the food ordering process:
 
 ### Task 3.2
 ![](https://i.imgur.com/9oX3Nfv.png)
+
+## Task 4
+
+- Task 4.1: Setting up. The team creates an online repository (github, bitbucket, etc) for version control.
+- Task 4.2: Adding documents, materials and folders for Requirement, System modelling and Architectural design. Use the selected version control system to report the changes to these files/ folders
+- Task 4.3: Implement a Minimum Viable Product (MVP) for the menu screen in Figure 2 and demonstrate the result. MVP means that do the least to be able to demonstrate. That means at this stage, no need for a database to store all menu items, customers, etc. Data can be hard coded in code files.
