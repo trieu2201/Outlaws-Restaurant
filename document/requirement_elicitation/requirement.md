@@ -1,5 +1,3 @@
-### Task 1.2
-
 #### Functional requirements:
 - The order must be recorded to the database.
 - Customers can order meals and beverages from the menu.
